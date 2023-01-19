@@ -32,4 +32,4 @@
 - ...
 
 ## 🎮 My **Genshin** Info
-<img align="left"  alt="Genshin" src="http://cloud.nanxi.asia:90/f/BqYsd/ys.png" />
+<img align="left"  width="350px" alt="Genshin" src="http://cloud.nanxi.asia:90/f/BqYsd/ys.png" />
