@@ -11,10 +11,10 @@
 
 ## 🌟 I'm **南兮**
 
-- 👨🏻‍🎓A Chinese Student
+- 👨🏻‍🎓From China
 - 🐠Touch fish~
 - 🐤Just a Rookie
-- 🤖Developing a [Genshin Impact Bot](https://github.com/CMHopeSunshine/LittlePaimon)
+- 🥰Love to learn
 
 ## 📖 **Learning**
 
