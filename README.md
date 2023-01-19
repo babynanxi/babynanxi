@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-4fc08d?style=flat-square&logo=javascript&logoColor=fff)
-![](https://img.shields.io/badge/-Java-31a8ff?style=flat-square&logo=springboot&logoColor=fff)
 
 ## 🌍 **Environment**
 
