@@ -36,4 +36,4 @@
 - ...
 
 ## 🎮 My **Genshin** Info
-<img align="left" width="350px" alt="Genshin" src="https://genshin-card.getloli.com/16/49837885.png" />
+<img align="left" width="350px" alt="Genshin" src="http://cloud.nanxi.asia:90/f/l1YTW/photo_2022-08-31_23-19-59.jpg" />
