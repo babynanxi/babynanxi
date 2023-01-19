@@ -5,7 +5,7 @@
 </a>
   
 <p align="center">
-  <img width="300px" src="https://count.getloli.com/get/@CMHopeSunshine?theme=rule34"></img>
+  <img width="300px" src="https://count.getloli.com/get/@babynanxi?theme=rule34"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babynanxi&layout=compact"></img>
 </p>
 
