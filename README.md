@@ -9,7 +9,7 @@
 </p>
 
 ## 🌟 I'm **南兮**
-
+- [main](http://nanxi.asia:233)
 - 👨🏻‍🎓From China
 - 🐠Touch fish~
 - 🐤Just a Rookie
