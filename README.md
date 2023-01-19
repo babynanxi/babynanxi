@@ -9,8 +9,8 @@
 </p>
 
 ## 🌟 I'm **南兮**
--  [main](http://nanxi.asia:233)
--  [赞助](https://afdian.net/a/babynanxi)
+- 🛖[main](http://nanxi.asia:233)
+- 💰[赞助](https://afdian.net/a/babynanxi)
 - 👨🏻‍🎓From China
 - 🐠Touch fish~
 - 🐤Just a Rookie
