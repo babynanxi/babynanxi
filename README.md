@@ -15,6 +15,7 @@
 - 🐠Touch fish~
 - 🐤Just a Rookie
 - 🥰Love to learn
+- 😭Single
 
 ## 📖 **Learning**
 
