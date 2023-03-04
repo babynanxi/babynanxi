@@ -5,7 +5,7 @@
   
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@babynanxi?theme=rule34"></img>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"></img>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=babynanxi&show_icons=true&theme=radical"></img>
 </p>
 
 ## 🌟 I'm **南兮**
