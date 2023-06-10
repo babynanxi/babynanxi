@@ -26,6 +26,7 @@
 ## 🌍 **Environment**
 
 ![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=fff)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
